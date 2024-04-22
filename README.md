@@ -34,7 +34,7 @@
 
 ***
 <div style="display: flex; align-items: center;">
-    <img src="./assets/png/frameworks.png" alt="Skills" width="30" height="30"/>
+    <img src="./assets/png/Frameworks.png" alt="Skills" width="30" height="30"/>
     <h3 style="margin-left: 10px;">Frameworks:</h3>
 </div>
 
